@@ -9,5 +9,3 @@ module.exports = {
 	jhon,
 	peter
 }
-
-console.log(module)

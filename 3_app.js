@@ -4,7 +4,7 @@ const jhon = 'Jhon'
 const peter = 'Peter'
 
 const sayHi = (name) => {
-	console.log('Hello there ' + name)
+	console.log(`Hello there ${name}`)
 }
 
 sayHi('Susan')
